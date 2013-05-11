@@ -2,4 +2,7 @@
 
 echo 'hello world!';
 
+
+echo 'new echo';
+
 ?>
